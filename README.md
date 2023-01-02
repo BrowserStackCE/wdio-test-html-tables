@@ -51,3 +51,8 @@ Execution of 1 workers started at 2023-01-02T16:32:57.556Z
 Spec Files:	 1 passed, 1 total (100% completed) in 00:00:16
 
 ```
+
+### Note
+
+DOM parsing is achieved in the sample script using an popular NodeJS library, with MIT license, for ease of use: https://www.npmjs.com/package/node-html-parser
+However, the DOM parsing approach may also be done locally using any custom logic.
